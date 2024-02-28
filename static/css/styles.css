@@ -1,0 +1,12 @@
+.active-section{
+    background-color: blue;
+    margin-top: 2px;
+    font-size: 18px;
+    color: aqua;
+}
+. section{
+    background-color: aqua;
+    color: red;
+    margin-top: 2px;
+    font-size: 18px;
+}
